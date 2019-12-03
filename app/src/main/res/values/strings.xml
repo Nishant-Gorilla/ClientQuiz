@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ClientQuiz</string>
+    <string name="you_are_on_break">You Are on Break</string>
+    <string name="time_left">Time left:</string>
+</resources>
